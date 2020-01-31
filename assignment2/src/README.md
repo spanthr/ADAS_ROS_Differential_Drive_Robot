@@ -22,4 +22,4 @@ Similar logic was used in the following while loop for providing velocity contro
 made the turtle move in linear direction and the check variable was again the position of the turtle until it reached the
 desired cordinate. (Distance formula was used for calculation)
 
-TUrtlesim was used to excecute the python script files.
+Turtlesim was used to excecute the python script files.
