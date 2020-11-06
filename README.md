@@ -10,8 +10,6 @@ This repository has files dealing with my course Autonomous Science and Systems 
 ![_](https://github.com/spanthr/ADAS_ROS_Differential_Drive_Robot/blob/master/Images/8.gif)
 
 
-![_](https://github.com/spanthr/ADAS_ROS_Differential_Drive_Robot/blob/master/Images/9.gif)
-
 
 
 ![_](https://github.com/spanthr/ADAS_ROS_Differential_Drive_Robot/blob/master/Images/10.gif)
@@ -37,6 +35,10 @@ This repository has files dealing with my course Autonomous Science and Systems 
 ![_](https://github.com/spanthr/ADAS_ROS_Differential_Drive_Robot/blob/master/Images/4.gif)
 
 
+
+![_](https://github.com/spanthr/ADAS_ROS_Differential_Drive_Robot/blob/master/Images/9.gif)
+
+
 ![_](https://github.com/spanthr/ADAS_ROS_Differential_Drive_Robot/blob/master/Images/5.gif)
 
 
@@ -44,9 +46,6 @@ This repository has files dealing with my course Autonomous Science and Systems 
 
 
 ![_](https://github.com/spanthr/ADAS_ROS_Differential_Drive_Robot/blob/master/Images/7.gif)
-
-
-
 
 
 
